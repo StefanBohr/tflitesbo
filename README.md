@@ -13,7 +13,6 @@ Step 4: Get Code to the IOT
 
 Step 5: Run Inference Model (use run_Inference.py)
 
--------------------------------------------
 
 # Files:
 
