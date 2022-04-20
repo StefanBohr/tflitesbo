@@ -27,4 +27,8 @@ saved_Five_step_example.tflite: This is the tflite file that was converted from 
 
 run_inference.py: this is the code to run an inference model on the IOT using the .tflite file
 
+If you have done everything according to the Five step guide the only files you need to get to your IOT is the .tflite file and the run_inference.py file.
+
+Enjoy. :)
+
 
