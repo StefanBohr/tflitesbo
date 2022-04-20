@@ -12,8 +12,7 @@ Step 2: Save Model
 Step 3: Convert Model from Tensorflow to Tensorflow lite
 
 Step 4: Get Code to the IOT
-
-    If you have done everything according to the Five step guide the only files you need to get to your IOT is the .tflite file and the run_inference.py file.
+T he only files you need to get to your IOT is the .tflite file and the run_inference.py file.
 
 Step 5: Run Inference Model (use run_Inference.py)
 
