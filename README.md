@@ -13,8 +13,10 @@ Step 4: Get Code to the IOT
 
 Step 5: Run Inference Model (use run_Inference.py)
 
+-------------------------------------------
 
-Files:
+# Files:
+
 Five_step_example/my_model: this is the saved model of the "Five_step_example"
 
 Five_step_example.py: this is the example code. This is a very simple neural network
