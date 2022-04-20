@@ -3,7 +3,7 @@ Tutorial on how to convert Tensorflow model to Tensorflow lite in order to run T
 
 Five steps: Detailed explanation: [tfliteIOT.pptx](https://github.com/ArijanaBohr/tflite/files/8524561/tfliteIOT.pptx)
 
-Step 1: Create Model;
+Step 1: Create Model
                   
         Example Model's task: Learn the relationship between X and Y. After having trained the model it should predict Y for a given X. (It will be an approximative value)
 
