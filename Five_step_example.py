@@ -3,6 +3,7 @@
 
 # In[3]:
 
+#Task: Learn the relationship between X and Y. (it is Y = 3X + 1)
 
 import tensorflow as tf
 import numpy as np
@@ -13,6 +14,8 @@ xs = np.array([-1.0,0.0,1.0,2.0,3.0,4.0], dtype = float)
 ys = np.array([-2.0, 1.0,4.0,7.0,10.0,13.0], dtype=float)
 model.fit(xs, ys, epochs=500)
 
+#example: let's predict the value Y for X = 10.0:
+#print(model.predict([10.0]))
 
 # In[4]:
 
