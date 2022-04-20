@@ -16,8 +16,11 @@ Step 5: Run Inference Model (use run_Inference.py)
 
 Files:
 Five_step_example/my_model: this is the saved model of the "Five_step_example"
+
 Five_step_example.py: this is the example code. This is a very simple neural network
+
 saved_Five_step_example.tflite: This is the tflite file that was converted from Tensorflow to Tensorflow lite as seen in the tfliteIOT.pptx
+
 run_inference.py: this is the code to run an inference model on the IOT using the .tflite file
 
 
