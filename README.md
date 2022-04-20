@@ -31,6 +31,3 @@ run_inference.py: this is the code to run an inference model on the IOT using th
 
 
 
-Enjoy. :)
-
-
