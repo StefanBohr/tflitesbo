@@ -5,7 +5,7 @@ Five steps: Detailed explanation: [tfliteIOT.pptx](https://github.com/ArijanaBoh
 
 Step 1: Create Model
                   
-        Example Model's task: Learn the relationship between X and Y. After having trained the model it should predict Y for a given X. (It will be an approximative value)
+   Example Model's task: Learn the relationship between X and Y. After having trained the model it should predict Y for a given X. (It will be an approximative value)
 
 Step 2: Save Model
 
