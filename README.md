@@ -13,6 +13,7 @@ Step 4: Get Code to the IOT
 
 Step 5: Run Inference Model (use run_Inference.py)
 
+For further information please see: https://github.com/tensorflow/tflite-micro/blob/main/tensorflow/lite/micro/examples/hello_world/README.md
 
 # Files:
 
