@@ -20,8 +20,10 @@ def run_inference(model_path, topredict):
     print("input data: " , input_data,"output data:" , output_data)
 if __name__ == '__main__':
     run_inference(sys.argv[1], sys.argv[2])
-
-
+    
+#How to run programm in terminal:
+#Go to the directory tflite: cd tflite
+#run programm: python run_Inference.py saved_Five_step_example.tflite 8.0
 # In[ ]:
 
 
