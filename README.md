@@ -1,7 +1,8 @@
 # tflite
 Tutorial on how to convert Tensorflow model to Tensorflow lite in order to run Tensorflow code on the IOT2050.
 
-Five steps: Detailed explanation: [tfliteIOT_SE.pptx](https://github.com/ArijanaBohr/tflite/files/8548443/tfliteIOT_SE.pptx)
+Five steps: Detailed explanation: 
+[tfliteIOT.pdf](https://github.com/ArijanaBohr/tflite/files/8548447/tfliteIOT.pdf)
 
 
 Step 1: Create Model
