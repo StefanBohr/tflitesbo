@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[3]:
-
+#credits: https://harshityadav95.medium.com/hello-world-in-tensorflow-dad5565c1403
 #Task: Learn the relationship between X and Y. (it is Y = 3X + 1)
 
 import tensorflow as tf
