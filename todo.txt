@@ -1,0 +1,11 @@
+A) Sweep input parameter and create output graphic shown in web page
+1. Sweep x parameter from 0-100
+2. Create Python output as a graphic
+3. Add this graphic in webpage of Apache Webserver on IoT2050
+
+B) Use webpage to select start, stop of x sweep + display graphic 
+1. Create webpage that requests input from --- to
+2. Parametrize Python script
+3. Check if graphic is displayed correctly on webpage
+
+
